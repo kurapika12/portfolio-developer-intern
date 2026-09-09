@@ -78,6 +78,7 @@ Repository ini dibuat sebagai portofolio untuk mendukung lamaran **Developer Int
 - Sinkronisasi otomatis ke Google Sheets dengan retry otomatis saat sinkronisasi gagal
 - Status sinkronisasi per transaksi
 
+**Repository:** [`Kelurahan-Bawasalo`](https://github.com/kurapika12/finance-tracker-offline-first)
 ---
 
 ### Todo & Notes App - Flutter
